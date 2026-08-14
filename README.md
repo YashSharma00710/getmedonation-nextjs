@@ -8,7 +8,27 @@ Coming soon...
 
 ## 📸 Screenshots
 
-<!-- Add screenshots of your project here -->
+### Home Page
+
+![GetMeDonation Home Page](./screenshot/home.png)
+![GetMeDonation Home Page](./screenshot/hom1.png)
+
+### Login Page
+
+![GetMeDonation Login Page](./screenshot/login.png)
+
+### Dashboard
+
+![GetMeDonation Dashboard](./screenshot/dashboard.png)
+
+### Payment Page
+
+![GetMeDonation Payment Page](./screenshot/your_page.png)
+![GetMeDonation Payment Page](./screenshot/your_page1.png)
+
+### Razorpay
+![GetMeDonation Payment Page](./screenshot/razorpay.png)
+
 
 ## ✨ Features
 
