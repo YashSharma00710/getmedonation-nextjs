@@ -6,6 +6,13 @@ A full-stack donation platform built with Next.js that allows users to support a
 
 Coming soon...
 
+## 🚧 Current Status
+
+- ✅ GitHub authentication is currently working.
+- ⚠️ Email/password authentication is still under development.
+- ✅ Razorpay payment integration is implemented.
+- ⚠️ Some features may still be improved as development continues.
+
 ## 📸 Screenshots
 
 ### Home Page
