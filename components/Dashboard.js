@@ -55,6 +55,7 @@ const Dashboard = () => {
 
     const handlechange = (e) => {
         setform({ ...form, [e.target.name]: e.target.value })
+        console.log(form)
     }
     const handlesubmit = async (e) => {
         if (form.name && form.email && form.username) {
