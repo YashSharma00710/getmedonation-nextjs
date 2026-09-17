@@ -75,7 +75,7 @@ Coming soon...
 
 Clone the repository:
 
-git clone https://github.com/YashSharma00710/getmedonation-nextjs
+git clone https://github.com/YashSharma00710/getmedonation.git
 
 Move into the project:
 
